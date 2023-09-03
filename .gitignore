@@ -2,6 +2,8 @@
 *.config
 
 # Directories
+couples/
 pictures/
 results/
 video/
+log/
